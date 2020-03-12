@@ -1,0 +1,3 @@
+https://tnb.liga.nu/cgi-bin/WebObjects/nuLigaTENDE.woa/wa/leaguePage?championship=TNB+Sommer+2020&tab=1
+https://tnb.liga.nu/cgi-bin/WebObjects/nuLigaTENDE.woa/wa/leaguePage?championship=TNB+Sommer+2020&tab=2
+https://tnb.liga.nu/cgi-bin/WebObjects/nuLigaTENDE.woa/wa/leaguePage?championship=TNB+Sommer+2020&tab=3
